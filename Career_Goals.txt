@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+       <style>  body { background-color: Beige; }
+                     p1 {color:blue; font-size: 20px;}   
+                     p2 {color:purple;}
+                     p3 {color:green;}
+                     p4 {color:orange;}
+       </style>  
+
+</head>
+<body>  
+
+<h1 style="color:red;">MY CAREER GOALS </h1>
+<p1> Career goals for this year:</p1>
+<br>
+<br>
+<p2> 1. Find a good job in the  <mark>IT Industry</mark>.</p2>
+<br>
+<p3> 2. Improve <em>English</em> language skills.</p3>
+<br>
+<p4> 3. Continue to study the IT Industry.</p4>
+
+
+</body>
+</html>
